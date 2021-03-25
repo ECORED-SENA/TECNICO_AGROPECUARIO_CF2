@@ -1,0 +1,126 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  {
+    "id": 0,
+    "icon": "fa fa-file-text",
+    "slug": "introduccion",
+    "title": "Introducción",    
+    "path": "pages/introduccion.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "generalidades_marco_logico",
+    "title": "1. Generalidades del enfoque de marco lógico",    
+    "path": "pages/tema-1.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "generalidades_marco_logico",
+        "title": "1.1 Etapa de análisis",
+        "anchor": "tema_1_1" 
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "generalidades_marco_logico",
+        "title": "1.2 Etapa de planificación",
+        "anchor": "tema_1_2" 
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "etapa_analisis",
+    "title": "2. Etapa de análisis",    
+    "path": "pages/tema-2.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "etapa_analisis",
+        "title": "2.1 Análisis del contexto en torno a la problemática de la ruralidad",
+        "anchor": "tema_2_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "etapa_analisis",
+        "title": "2.2 Análisis de información secundaria",
+        "anchor": "tema_2_2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "etapa_analisis",
+        "title": "2.3 Análisis de actores involucrados",
+        "anchor": "tema_2_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "etapa_analisis",
+        "title": "2.4 Diagnóstico de la situación problémica",
+        "anchor": "tema_2_4"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "etapa_analisis",
+        "title": "2.5 Identificación de problemas a partir de información primaria",
+        "anchor": "tema_2_5"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "etapa_analisis",
+        "title": "2.6 Priorización de problemas a través de la herramienta “matriz de Vester”",
+        "anchor": "tema_2_6"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "etapa_analisis",
+        "title": "2.7 Análisis causa-efecto a través de la “metodología de árboles”",
+        "anchor": "tema_2_7"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "etapa_planificacion",
+    "title": "3. Etapa de planificación",    
+    "path": "pages/tema-3.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "etapa_planificacion",
+        "title": "3.1 Análisis de alternativas",
+        "anchor": "tema_3_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "etapa_planificacion",
+        "title": "3.2 Matriz de marco lógico",
+        "anchor": "tema_3_2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "etapa_planificacion",
+        "title": "3.3 Indicadores y medios de verificación",
+        "anchor": "tema_3_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "etapa_planificacion",
+        "title": "3.4 Análisis de riesgos y establecimiento de los supuestos del proyecto",
+        "anchor": "tema_3_4"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "etapa_planificacion",
+        "title": "3.5 Plan operativo y presupuesto general",
+        "anchor": "tema_3_5"
+      }
+    ]
+  }  
+]
